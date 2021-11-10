@@ -1,0 +1,47 @@
+.kepala{
+    width: 50%;
+    margin-left: 200px;
+}
+img{
+   width: 150px;
+   height: 150px;
+   margin-right: 20px;
+}
+header{
+    display: flex;
+}
+h1{
+    margin: 0px;
+    padding: 0px;
+}
+.cate{
+    text-align: right;
+    margin-left: 200px;
+}
+.garis{
+    color: black;
+}
+section{
+    text-align: justify;
+}
+video{
+    width: 200px;
+    margin-bottom: 50px;
+}
+footer{
+    display: flex;
+}
+object{
+    width: 230px;
+    height: 300px;
+    margin-right: 20px;
+}
+iframe{
+    width: 230px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+}
+.bawah{
+    width: 230px;
+    margin-bottom: 100px;
+}
